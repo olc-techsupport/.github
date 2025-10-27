@@ -42,7 +42,6 @@ Our project centers Tribal self-determination and the integration of Tribal Know
 | Lilly Jones, PhD | CIRES Earth Lab, CU Boulder |
 | Camille Griffith, PhD | Faculty, Oglala Lakota College |
 | James Sanovia | Tribal Data Scientist, CIRES ESIIL Lab, CU Boulder |
-| James Sanovia | Tribal Data Scientist, CIRES ESIIL Lab, CU Boulder |
 | Ty Tuff | Lead Data Scientist, CIRES ESIIL Lab, CU Boulder |
 
 ---
