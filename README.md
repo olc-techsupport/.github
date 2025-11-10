@@ -9,7 +9,7 @@ This repository serves as the central hub for our group, hosting our project des
 
 Communities across the globe are navigating an era of profound environmental disruption, including the contamination of air and water, declining freshwater availability, habitat loss, and an accelerating climate crisis. For many Tribal Nations, these challenges are compounded by the legacies of colonization and systemic inequities that have limited access to environmental data and decision-making tools.
 
-At the same time, Tribal peoples bring generations of knowledge and enduring relationships with their homelands that offer critical insights for sustaining ecosystems. Traditional ways of understanding the world—rooted are in balance, respect, and reciprocity hold lessons for all of us.
+At the same time, Tribal peoples bring generations of knowledge and enduring relationships with their homelands that offer critical insights for sustaining ecosystems. Traditional ways of understanding the world that are rooted in balance, respect, and reciprocity hold lessons for all of us.
 
 The **Integrated Data Cube (IDC)** initiative seeks to unite these strengths with the capabilities of modern Earth data science. Our team is creating a flexible, community-driven data and workflow platform that enables Tribal Nations to gather, interpret, and apply environmental information in ways that align with their own priorities and governance systems. It is both a research infrastructure and a learning environment designed to expand local expertise in data analysis and evidence-based decision-making while also integrating principles of traditional knowledge systems and inherent Tribal sovereignty.
 
