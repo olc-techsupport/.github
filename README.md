@@ -38,10 +38,10 @@ Our project centers Tribal self-determination and the integration of Tribal Know
 | Name | Affiliation |
 |------|--------------|
 | J. Foster Sawyer, PhD | Faculty, Oglala Lakota College |
-| Elisha Yellow Thunder | Adjunct Faculty, Oglala Lakota College |
-| Lilly Jones, PhD | CIRES Earth Lab, CU Boulder |
 | Camille Griffith, PhD | Faculty, Oglala Lakota College |
+| Elisha Yellow Thunder | Adjunct Faculty, Oglala Lakota College |
 | James Sanovia | Tribal Data Scientist, CIRES ESIIL Lab, CU Boulder |
+| Lilly Jones, PhD | Research Faculty, CIRES Earth Lab, CU Boulder |
 | Ty Tuff | Lead Data Scientist, CIRES ESIIL Lab, CU Boulder |
 
 ---
