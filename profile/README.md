@@ -37,6 +37,7 @@ Our project centers Tribal self-determination and the integration of Tribal Know
 
 | Name | Affiliation |
 |------|--------------|
+| Dana Gehring          | Department Head, Oglala Lakota College |
 | J. Foster Sawyer, PhD | Faculty, Oglala Lakota College |
 | Camille Griffith, PhD | Faculty, Oglala Lakota College |
 | Elisha Yellow Thunder | Adjunct Faculty, Oglala Lakota College |
