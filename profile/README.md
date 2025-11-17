@@ -54,7 +54,7 @@ Our project centers Tribal self-determination and the integration of Tribal Know
 
 For questions or collaboration inquiries, please contact:  
 **  
-Email: []
+Email: [jfsawyer@olc.edu]
 
 ---
 
