@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Oglala Lakota College Integrated Data Cube Project
-Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**. 
+Welcome to the OLC NIFA IDC repository, part of the USDA-NIFA IDC project at Oglala Lakota College. 
 A community-driven platform for integrating Earth data science with Tribal knowledge systems. 
 This repository serves as the central hub for our group, hosting our project description, member bios, codebase, datasets, and more.
 
@@ -41,12 +41,13 @@ The DataCube will serve as a teaching and learning tool for Oglala Lakota Colleg
 - **Stronger Environmental and Climate Resilience**  
 With improved data and tools, Tribes can develop more effective, self-determined responses to environmental challenges, ensuring long-term sustainability.
 
-- Advancing environmental data science is about equity, sovereignty, and inclusion.  
+- **Advancing environmental data science** is about equity, sovereignty, and inclusion.  
 Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data science tools to create lasting, meaningful change.
 
 Learn more on the **About** page.
 
 ## Team Members
+
 | Name | Affiliation |
 |------|--------------|
 | J. Foster Sawyer, PhD | Faculty, Oglala Lakota College |
