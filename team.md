@@ -4,6 +4,7 @@ title: Team
 ---
 
 ## Team Members
+
 | Name | Affiliation |
 |------|--------------|
 | Dana Gehring | Department Head, Oglala Lakota College |
