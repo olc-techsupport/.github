@@ -4,10 +4,9 @@ title: Home
 ---
 
 # Oglala Lakota College Integrated Data Cube Project
-
-Welcome to the **OLC NIFA Integrated Data Cube (IDC)** initiative at **Oglala Lakota College**.
-
-A community-driven platform for integrating Earth data science with Tribal knowledge systems.
+Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**. 
+A community-driven platform for integrating Earth data science with Tribal knowledge systems. 
+This repository serves as the central hub for our group, hosting our project description, member bios, codebase, datasets, and more.
 
 ## What We Do
 We support Tribal Nations in:
@@ -22,12 +21,6 @@ The IDC helps ensure that:
 - Data is accessible  
 - Knowledge is respected  
 - Decisions are community-led  
-
-Learn more on the **About** page.
-
-# Oglala Lakota College Integrated Data Cube Project
-Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**.  
-This repository serves as the central hub for our group, hosting our project description, member bios, codebase, datasets, and more.
 
 ## Our Project
 Communities across the globe are navigating an era of profound environmental disruption, including the contamination of air and water, declining freshwater availability, habitat loss, and an accelerating climate crisis. For many Tribal Nations, these challenges are compounded by the legacies of colonization and systemic inequities that have limited access to environmental data and decision-making tools.
@@ -51,7 +44,9 @@ With improved data and tools, Tribes can develop more effective, self-determined
 Advancing environmental data science is about equity, sovereignty, and inclusion.  
 Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data science tools to create lasting, meaningful change.
 
-## Working Group Members
+Learn more on the **About** page.
+
+## Team Members
 | Name | Affiliation |
 |------|--------------|
 | J. Foster Sawyer, PhD | Faculty, Oglala Lakota College |
