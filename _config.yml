@@ -1,3 +1,9 @@
+title: OLC Integrated Data Cube
+description: Community-driven Earth data science for Tribal Nations
 theme: minima
-title: Oglala Lakota College Integrated Data Cube Project
-description: USDA-NIFA IDC project at Oglala Lakota College
+
+header_pages:
+  - about.md
+  - team.md
+  - data.md
+  - contact.md
