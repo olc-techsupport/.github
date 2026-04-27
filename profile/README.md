@@ -3,6 +3,13 @@
 Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**.  
 This repository serves as the central hub for our group, hosting our project description, member bios, codebase, datasets, and more.
 
+## Project At a Glance
+- **Project:** Integrated Data Cube (IDC)/Cubedynamics for Tribal environmental data
+- **Focus:** Agriculture, water, land, geology, soils, and ecosystem monitoring
+- **Goal:** Support Tribal sovereignty through data access and tools
+- **Built by:** Oglala Lakota College in collaboration with Daear Consulting, LLC and CIRES Researchers (CU Boulder)
+- **Status:** Active development (2025-2026)
+
 ## Our Project
 Communities across the globe are navigating an era of profound environmental disruption, including the contamination of air and water, declining freshwater availability, habitat loss, and an accelerating climate crisis. For many Tribal Nations, these challenges are compounded by the legacies of colonization and systemic inequities that have limited access to environmental data and decision-making tools.
 
