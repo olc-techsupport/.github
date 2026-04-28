@@ -62,7 +62,7 @@ For questions or collaboration inquiries, please contact:
 ## Acknowledgment
 This work is guided by the principles of **Tribal data sovereignty**, **Tribal knowledge integration**, and **Community-led, land-based research** as outlined below. We honor the **Oglala Lakota Nation**, the **Oceti Sakowin** and the lands that sustain this work. 
 
-This toolkit is aligned with four complementary frameworks:
+This toolkit is aligned with the following complementary frameworks:
 | Framework | What it governs |
 |---|---|
 | **Local Contexts TK/BC Labels** | Cultural authority, appropriate use, community expectations |
