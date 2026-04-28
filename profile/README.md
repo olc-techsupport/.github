@@ -69,6 +69,7 @@ This toolkit is aligned with four complementary frameworks:
 | **OCAP®** | Tribal Nations own, control, access, and possess their data |
 | **CARE Principles** | Collective Benefit, Authority to Control, Responsibility, Ethics |
 | **IEEE 2890-2025** | Provenance of Indigenous Peoples' data (machine-readable ethical lineage) |
+| FAIR Principles    | Data are findable, accessible, and adhere to open science practices  |
 
 Citation of these frameworks is appropriate when using or extending this toolkit:
 - Local Contexts: https://localcontexts.org/
