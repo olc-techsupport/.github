@@ -60,9 +60,28 @@ For questions or collaboration inquiries, please contact:
 **Email:** [Foster Sawyer](mailto:jfsawyer@olc.edu)
 
 ## Acknowledgment
-This work is guided by the principles of **Tribal data sovereignty**, **Tribal knowledge integration**, and **Community-led, land-based research**. We honor the **Oglala Lakota Nation**, the **Oceti Sakowin** and the lands that sustain this work.
+This work is guided by the principles of **Tribal data sovereignty**, **Tribal knowledge integration**, and **Community-led, land-based research** as outlined below. We honor the **Oglala Lakota Nation**, the **Oceti Sakowin** and the lands that sustain this work. 
+
+## Frameworks
+This toolkit is aligned with four complementary frameworks:
+| Framework | What it governs |
+|---|---|
+| **Local Contexts TK/BC Labels** | Cultural authority, appropriate use, community expectations |
+| **OCAP®** | Tribal Nations own, control, access, and possess their data |
+| **CARE Principles** | Collective Benefit, Authority to Control, Responsibility, Ethics |
+| **IEEE 2890-2025** | Provenance of Indigenous Peoples' data (machine-readable ethical lineage) |
+
+Citation of these frameworks is appropriate when using or extending this toolkit:
+- Local Contexts: https://localcontexts.org/
+- OCAP®: First Nations Information Governance Centre: https://fnigc.ca/ocap-training/
+- CARE Principles: GIDA: https://www.gida-global.org/care
+- FAIR Principles: https://www.go-fair.org/fair-principles/
+- IEEE 2890-2025: https://standards.ieee.org/ieee/2890/10318/
 
 ### **“Data sovereignty means communities define how their data is used, shared, and understood.”**
+
+## Citation
+
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
