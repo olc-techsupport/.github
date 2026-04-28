@@ -24,14 +24,11 @@ The Integrated Data Cube (IDC) initiative seeks to unite these strengths with th
 To build geospatial data analytics tools in collaboration with Tribal partners and to equip communities with tools to visualize and interpret their own environmental data that help to ensure responses to ecological change are guided by Tribal leadership, knowledge, and values.
 
 ## Expected Impacts
-- **Increased Tribal Access to Data Science**  
-Making EDS accessible supports Tribal-led environmental research and resource management.
+- **Increased Tribal Access to Data Science**: Making EDS accessible supports Tribal-led environmental research and resource management.
 
-- **Capacity Building and Training**  
-The DataCube will serve as a teaching and learning tool for Oglala Lakota College, students, Elders, and community members, expanding technical and data literacy skills.
+- **Capacity Building and Training**: The DataCube will serve as a teaching and learning tool for Oglala Lakota College, students, Elders, and community members, expanding technical and data literacy skills.
 
-- **Stronger Environmental and Climate Resilience**  
-With improved data and tools, Tribes can develop more effective, self-determined responses to environmental challenges, ensuring long-term sustainability.
+- **Stronger Environmental and Climate Resilience**: With improved data and tools, Tribes can develop more effective, self-determined responses to environmental challenges, ensuring long-term sustainability.
 
 - Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data tools to create lasting, meaningful change.
 
