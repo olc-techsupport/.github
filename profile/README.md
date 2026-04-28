@@ -1,7 +1,6 @@
 # Oglala Lakota College Integrated Data Cube Project
 
-Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**.  
-This repository serves as the central hub for our group, hosting our project description, member bios, codebase, datasets, and more.
+Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**. This repository serves as the central hub for our group, hosting our project description, codebase, datasets, and more.
 
 ## Project At a Glance
 - **Project:** Integrated Data Cube (IDC)/Cubedynamics for Tribal environmental data
