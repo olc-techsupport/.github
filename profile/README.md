@@ -7,7 +7,7 @@ This repository serves as the central hub for our group, hosting our project des
 - **Project:** Integrated Data Cube (IDC)/Cubedynamics for Tribal environmental data
 - **Focus:** Agriculture, water, land, geology, soils, and ecosystem monitoring
 - **Goal:** Support Tribal sovereignty through data access and tools
-- **Built by:** Oglala Lakota College in collaboration with Daear Consulting, LLC and CIRES Researchers (CU Boulder)
+- **Built by:** Oglala Lakota College in collaboration with Daear Consulting, LLC and CIRES (CU Boulder) Researchers
 - **Status:** Active development (2025-2026)
 
 ## Our Project
