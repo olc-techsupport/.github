@@ -33,8 +33,7 @@ The DataCube will serve as a teaching and learning tool for Oglala Lakota Colleg
 - **Stronger Environmental and Climate Resilience**  
 With improved data and tools, Tribes can develop more effective, self-determined responses to environmental challenges, ensuring long-term sustainability.
 
-- Advancing environmental data science isn’t just about technology, it’s about equity, sovereignty, and inclusion.  
-Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data tools to create lasting, meaningful change.
+- Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data tools to create lasting, meaningful change.
 
 ## Current Work
 - Building initial data cube infrastructure
