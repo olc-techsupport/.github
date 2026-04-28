@@ -11,15 +11,20 @@ This repository serves as the central hub for our group, hosting our project des
 - **Status:** Active development (2025-2026)
 
 ## Our Project
+
+### The Challenge
 Communities across the globe are navigating an era of profound environmental disruption, including the contamination of air and water, declining freshwater availability, habitat loss, and an accelerating climate crisis. For many Tribal Nations, these challenges are compounded by the legacies of colonization and systemic inequities that have limited access to environmental data and decision-making tools.
 
-At the same time, Tribal peoples bring generations of knowledge and enduring relationships with their homelands that offer critical insights for sustaining ecosystems. Traditional ways of understanding the world that are rooted in balance, respect, and reciprocity hold lessons for all of us.
+### Indigenous Knowledge and Data
+Tribal peoples bring generations of knowledge and enduring relationships with their homelands that offer critical insights for sustaining ecosystems. Traditional ways of understanding the world that are rooted in balance, respect, and reciprocity hold lessons for all of us. This work supports Tribal sovereignty and resilience. 
 
-The **Integrated Data Cube (IDC)** initiative seeks to unite these strengths with the capabilities of modern Earth data science. Our team is creating a flexible, community-driven data and workflow platform that enables Tribal Nations to gather, interpret, and apply environmental information in ways that align with their own priorities and governance systems. It is both a research infrastructure and a learning environment designed to expand local expertise in data analysis and evidence-based decision-making while also integrating principles of traditional knowledge systems and inherent Tribal sovereignty.
+### Our Approach
+The Integrated Data Cube (IDC) initiative seeks to unite these strengths with the capabilities of modern Earth data science. Our team is creating a flexible, community-driven data and workflow platform that enables Tribal Nations to gather, interpret, and apply environmental information in ways that align with their own priorities and governance systems. It is both a research infrastructure and a learning environment designed to expand local expertise in data analysis and evidence-based decision-making while also integrating principles of traditional knowledge systems and inherent Tribal sovereignty.
 
-Ultimately, this work supports Tribal sovereignty and resilience. By equipping communities with tools to visualize and interpret their own environmental data, the IDC helps ensure that responses to climate and ecological change are guided by Tribal leadership, knowledge, and values.
+### Our Goal
+To build geospatial data analytics tools in collaboration with Tribal partners and to equip communities with tools to visualize and interpret their own environmental data that help to ensure responses to ecological change are guided by Tribal leadership, knowledge, and values.
 
-## Expected Impact
+## Expected Impacts
 - **Increased Tribal Access to Data Science**  
 Making EDS accessible supports Tribal-led environmental research and resource management.
 
@@ -31,6 +36,17 @@ With improved data and tools, Tribes can develop more effective, self-determined
 
 - Advancing environmental data science isn’t just about technology, it’s about equity, sovereignty, and inclusion.  
 Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data tools to create lasting, meaningful change.
+
+## Current Work
+- Building initial data cube infrastructure
+- Integrating agricultural and hydrology datasets
+- Developing student training materials
+
+## Roadmap
+- Community-facing data tools
+- Expanded dataset integrations
+- Workshops with Tribal partners
+- Tribal Hackathon to introduce these tools
 
 ## Team Members
 
@@ -49,7 +65,12 @@ For questions or collaboration inquiries, please contact:
 **Email:** [Foster Sawyer](mailto:jfsawyer@olc.edu)
 
 ## Acknowledgment
-This work is guided by the principles of **Tribal data sovereignty**, **Tribal knowledge integration**, and **Community-led, land-based research**.  
-We honor the **Oglala Lakota Nation**, the **Oceti Sakowin** and the lands that sustain this work.
+This work is guided by the principles of **Tribal data sovereignty**, **Tribal knowledge integration**, and **Community-led, land-based research**. We honor the **Oglala Lakota Nation**, the **Oceti Sakowin** and the lands that sustain this work.
+
+### **“Data sovereignty means communities define how their data is used, shared, and understood.”**
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.10+-yellow)
 
 
