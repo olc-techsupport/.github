@@ -59,7 +59,7 @@ This work is guided by:
 
 ## Contact
 **Questions or collaboration inquiries:**  
-📧 [Foster Sawyer — jfsawyer@olc.edu](mailto:jfsawyer@olc.edu)
+[Foster Sawyer jfsawyer@olc.edu](mailto:jfsawyer@olc.edu)
 
 *We honor the **Oglala Lakota Nation**, the **Oceti Sakowin**, and the lands that sustain this work.*
 
