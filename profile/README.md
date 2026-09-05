@@ -25,13 +25,13 @@ provides information about its materials and how to get started.
 
 | Area | Series and resources |
 | --- | --- |
-| **Education** | [Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial) — Explore how land changes over time and learn how a data cube helps investigate those changes. |
-| **Hydrology** | [Hydrology](https://github.com/olc-techsupport/Hydrology-hydrology) — Explore notebooks for analyzing and visualizing water data on the Pine Ridge Reservation. |
-| **Agriculture and Habitat** | [Pine Ridge Bison Habitat](https://github.com/olc-techsupport/Agriculture-pine_ridge_bison_habitat) — Explore environmental data relevant to bison habitat. |
-| **Biodiversity** | [Species Occurrences](https://github.com/olc-techsupport/Agriculture-gbif_species_occurrences) — Download, display, and analyze species observations from the Global Biodiversity Information Facility (GBIF). |
-| **Geospatial Data** | [Dataset Resources](https://github.com/olc-techsupport/Geospatial-datasets) — Find information about datasets used in the project. |
-| **Mapping Resources** | [Pine Ridge Bounding Boxes](https://github.com/olc-techsupport/Geospatial-Pine-Ridge-Bounding-Boxes) and [Historical Geologic Maps](https://github.com/olc-techsupport/Geospatial-historical_geologic_maps) — Find geographic reference tools and explore historical maps. |
-| **Data Preparation** | [Data Ingestion](https://github.com/olc-techsupport/Geospatial-data_ingestion) — Explore Python tools for downloading, streaming, and preparing environmental datasets. |
+| **Education** | [Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial): Explore how land changes over time and learn how a data cube helps investigate those changes. |
+| **Hydrology** | [Hydrology](https://github.com/olc-techsupport/Hydrology-hydrology): Explore notebooks for analyzing and visualizing water data on the Pine Ridge Reservation. |
+| **Agriculture and Habitat** | [Pine Ridge Bison Habitat](https://github.com/olc-techsupport/Agriculture-pine_ridge_bison_habitat): Explore environmental data relevant to bison habitat. |
+| **Biodiversity** | [Species Occurrences](https://github.com/olc-techsupport/Agriculture-gbif_species_occurrences): Download, display, and analyze species observations from the Global Biodiversity Information Facility (GBIF). |
+| **Geospatial Data** | [Dataset Resources](https://github.com/olc-techsupport/Geospatial-datasets): Find information about datasets used in the project. |
+| **Mapping Resources** | [Pine Ridge Bounding Boxes](https://github.com/olc-techsupport/Geospatial-Pine-Ridge-Bounding-Boxes) and [Historical Geologic Maps](https://github.com/olc-techsupport/Geospatial-historical_geologic_maps): Find geographic reference tools and explore historical maps. |
+| **Data Preparation** | [Data Ingestion](https://github.com/olc-techsupport/Geospatial-data_ingestion): Explore Python tools for downloading, streaming, and preparing environmental datasets. |
 
 [Browse all OLC repositories](https://github.com/orgs/olc-techsupport/repositories)
 
@@ -70,9 +70,9 @@ We aim to:
 - Develop workflows that respect Tribal Knowledges and governance.
 - Support environmental decisions guided by community priorities.
 
-## Tribal Data Sovereignty
+## Tribal Data Sovereignty and Governance
 
-Tribal sovereignty and community leadership guide this work.
+Tribal sovereignty, data governance, and community leadership guide this work.
 Respect for Tribal Knowledges includes respecting decisions about
 whether, how, and with whom knowledge is shared.
 
