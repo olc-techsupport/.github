@@ -3,11 +3,6 @@
 
 > *"Data sovereignty means communities define how their data is used, shared, and understood."*
 
----
-layout: home
-title: Home
----
-
 # Welcome to Oglala Lakota College
 ## Integrated Data Cube Project
 
