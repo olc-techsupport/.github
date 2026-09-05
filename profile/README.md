@@ -29,6 +29,7 @@ provides information about its materials and how to get started.
 | **Hydrology** | [Hydrology](https://github.com/olc-techsupport/Hydrology-hydrology): Explore notebooks for analyzing and visualizing water data on the Pine Ridge Reservation. |
 | **Agriculture and Habitat** | [Pine Ridge Bison Habitat](https://github.com/olc-techsupport/Agriculture-pine_ridge_bison_habitat): Explore environmental data relevant to bison habitat. |
 | **Biodiversity** | [Species Occurrences](https://github.com/olc-techsupport/Agriculture-gbif_species_occurrences): Download, display, and analyze species observations from the Global Biodiversity Information Facility (GBIF). |
+| **Geology and Soils** | [Geology and Soils](https://github.com/olc-techsupport/Geology-soils-geology): Download, display, and analyze a 3D map of western SD geology. |
 | **Geospatial Data** | [Dataset Resources](https://github.com/olc-techsupport/Geospatial-datasets): Find information about datasets used in the project. |
 | **Mapping Resources** | [Pine Ridge Bounding Boxes](https://github.com/olc-techsupport/Geospatial-Pine-Ridge-Bounding-Boxes) and [Historical Geologic Maps](https://github.com/olc-techsupport/Geospatial-historical_geologic_maps): Find geographic reference tools and explore historical maps. |
 | **Data Preparation** | [Data Ingestion](https://github.com/olc-techsupport/Geospatial-data_ingestion): Explore Python tools for downloading, streaming, and preparing environmental datasets. |
