@@ -32,7 +32,6 @@ provides information about its materials and how to get started.
 | **Geology and Soils** | [Geology and Soils](https://github.com/olc-techsupport/Geology-soils-geology): Download, display, and analyze a 3D map of western SD geology. |
 | **Geospatial Data** | [Dataset Resources](https://github.com/olc-techsupport/Geospatial-datasets): Find information about datasets used in the project. |
 | **Mapping Resources** | [Pine Ridge Bounding Boxes](https://github.com/olc-techsupport/Geospatial-Pine-Ridge-Bounding-Boxes) and [Historical Geologic Maps](https://github.com/olc-techsupport/Geospatial-historical_geologic_maps): Find geographic reference tools and explore historical maps. |
-| **Data Preparation** | [Data Ingestion](https://github.com/olc-techsupport/Geospatial-data_ingestion): Explore Python tools for downloading, streaming, and preparing environmental datasets. |
 
 [Browse all OLC repositories](https://github.com/orgs/olc-techsupport/repositories)
 
